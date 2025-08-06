@@ -10,8 +10,8 @@ RESET='\033[0m'            # Reset
 echo -e "${BG_BLUE}   ${ORANGE}   AWS DynamoDB -LOCAL-                            ${BG_BLUE}   ${RESET}"
 
 # Configuració AWS DynamoDB Local
-export AWS_ACCESS_KEY_ID=dummy
-export AWS_SECRET_ACCESS_KEY=dummy
+export AWS_ACCESS_KEY_ID=unaArreu
+export AWS_SECRET_ACCESS_KEY=unaArreu
 ENDPOINT="http://localhost:8000"
 REGION="us-west-2"
 TABLE="Usuaris"
