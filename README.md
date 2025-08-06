@@ -181,7 +181,6 @@ Aquest fitxer es genera quan fas `export`, i pot tornar-se a importar per carreg
 
 ## Autor
 
-Creat per a finalitats educatives i de desenvolupament local per xaviblanes (iesbi_np)
-No utilitza serveis reals ni cobra cap cost.
+Creat per a finalitats educatives i de desenvolupament local per xaviblanes (iesbi_np). No utilitza serveis reals per tant no té cap cost.
 
 ---
