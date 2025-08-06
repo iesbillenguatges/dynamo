@@ -1,0 +1,227 @@
+{
+    "Items": [
+        {
+            "Nom": {
+                "S": "Laia"
+            },
+            "Edat": {
+                "N": "24"
+            },
+            "UsuariID": {
+                "S": "u002"
+            }
+        },
+        {
+            "Nom": {
+                "S": "David"
+            },
+            "Edat": {
+                "N": "41"
+            },
+            "UsuariID": {
+                "S": "u009"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Núria"
+            },
+            "Edat": {
+                "N": "33"
+            },
+            "UsuariID": {
+                "S": "u006"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Pau"
+            },
+            "Edat": {
+                "N": "29"
+            },
+            "UsuariID": {
+                "S": "u005"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Anna"
+            },
+            "Edat": {
+                "N": "27"
+            },
+            "UsuariID": {
+                "S": "u004"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Joan"
+            },
+            "Edat": {
+                "N": "36"
+            },
+            "UsuariID": {
+                "S": "u011"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Oriol"
+            },
+            "Edat": {
+                "N": "39"
+            },
+            "UsuariID": {
+                "S": "u019"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Gemma"
+            },
+            "Edat": {
+                "N": "23"
+            },
+            "UsuariID": {
+                "S": "u018"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Roger"
+            },
+            "Edat": {
+                "N": "37"
+            },
+            "UsuariID": {
+                "S": "u017"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Clara"
+            },
+            "Edat": {
+                "N": "22"
+            },
+            "UsuariID": {
+                "S": "u008"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Marc"
+            },
+            "Edat": {
+                "N": "31"
+            },
+            "UsuariID": {
+                "S": "u003"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Irene"
+            },
+            "Edat": {
+                "N": "38"
+            },
+            "UsuariID": {
+                "S": "u010"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Eva"
+            },
+            "Edat": {
+                "N": "34"
+            },
+            "UsuariID": {
+                "S": "u016"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Jordi"
+            },
+            "Edat": {
+                "N": "30"
+            },
+            "UsuariID": {
+                "S": "u001"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Carles"
+            },
+            "Edat": {
+                "N": "35"
+            },
+            "UsuariID": {
+                "S": "u007"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Lídia"
+            },
+            "Edat": {
+                "N": "21"
+            },
+            "UsuariID": {
+                "S": "u020"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Àlex"
+            },
+            "Edat": {
+                "N": "28"
+            },
+            "UsuariID": {
+                "S": "u015"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Marta"
+            },
+            "Edat": {
+                "N": "26"
+            },
+            "UsuariID": {
+                "S": "u012"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Víctor"
+            },
+            "Edat": {
+                "N": "32"
+            },
+            "UsuariID": {
+                "S": "u013"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Sílvia"
+            },
+            "Edat": {
+                "N": "40"
+            },
+            "UsuariID": {
+                "S": "u014"
+            }
+        }
+    ],
+    "Count": 20,
+    "ScannedCount": 20,
+    "ConsumedCapacity": null
+}

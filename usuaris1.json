@@ -1,0 +1,41 @@
+{
+    "Items": [
+        {
+            "Nom": {
+                "S": "Xavi"
+            },
+            "Edat": {
+                "N": "24"
+            },
+            "UsuariID": {
+                "S": "u002"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Pepet"
+            },
+            "Edat": {
+                "N": "41"
+            },
+            "UsuariID": {
+                "S": "u009"
+            }
+        },
+        {
+            "Nom": {
+                "S": "Pepeta"
+            },
+            "Edat": {
+                "N": "33"
+            },
+            "UsuariID": {
+                "S": "u006"
+            }
+        }
+    ],
+    "Count": 20,
+    "ScannedCount": 20,
+    "ConsumedCapacity": null
+}
+
