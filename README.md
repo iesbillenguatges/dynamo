@@ -134,7 +134,7 @@ chmod +x dynamo.sh
 Llança’l:
 
 ```bash
-./dynamodb-local.sh
+./dynamo.sh
 ```
 
 Assegura’t que el contenidor de DynamoDB Local està en marxa abans de començar.
