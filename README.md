@@ -128,7 +128,7 @@ També utilitza:
 Fes-lo executable:
 
 ```bash
-chmod +x dynamodb-local.sh
+chmod +x dynamo.sh
 ```
 
 Llança’l:
